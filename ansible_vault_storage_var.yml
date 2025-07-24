@@ -12,8 +12,8 @@ vault_secondary_storage_username: ansible
 vault_secondary_storage_secret: Remote01
 cloud_storage_serial: 228743
 cloud_storage_address: 172.17.1.28
-cloud_vault_storage_username: admin
-cloud_vault_storage_secret: Hitachi123!
+cloud_vault_storage_username: ansible
+cloud_vault_storage_secret: SDSRemote01
 port1_name: CL2-D
 port2_name: CL4-D
 port1_iqn: iqn.1993-08.org.debian.iscsi:01:107dc7e4254a
